@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi there 👋
 ### <h1 align="center">My name is Nikolay 
 
-### Always looking for development, striving for something new and improving my competence in the field of data science.
-    I constantly strive to grow and improve my competence in the field of data science.
-    I am always looking for what can be optimized and how best to put my skills into practice.
+Always looking for development, striving for something new and improving my competence in the field of data science.
+I constantly strive to grow and improve my competence in the field of data science.
+I am always looking for what can be optimized and how best to put my skills into practice.
 <!--
 **NikMaNik/NikMaNIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
