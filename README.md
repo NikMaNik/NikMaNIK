@@ -1,12 +1,15 @@
 ### <h1 align="center">Hi there 👋
 ### <h1 align="center">My name is Nikolay :octocat:
 
-### about me 
+### <h1 align="center">about me 
 Always looking for development, striving for something new and improving my competence in the field of data science. :books:
 I constantly strive to grow and improve my competence in the field of data science.
 I am always looking for what can be optimized and how best to put my skills into practice.
+
+### <h1 align="center">My target:
+  improve your competencies in the field of data science.
   
-### My stack:
+### <h1 align="center">My stack:
   | programs  |
   | --------- |
   | Python    |
