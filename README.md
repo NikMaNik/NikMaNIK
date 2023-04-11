@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there 👋
-### <h1 align="center">My name is Nikolay 
+### <h1 align="center">My name is Nikolay :octocat:
 
 Always looking for development, striving for something new and improving my competence in the field of data science.
 I constantly strive to grow and improve my competence in the field of data science.
