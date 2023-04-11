@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi there 👋
 ### <h1 align="center">My name is Nikolay :octocat:
 
-Always looking for development, striving for something new and improving my competence in the field of data science.
+Always looking for development, striving for something new and improving my competence in the field of data science. :books:
 I constantly strive to grow and improve my competence in the field of data science.
 I am always looking for what can be optimized and how best to put my skills into practice.
 <!--
